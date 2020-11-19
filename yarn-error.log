@@ -1,0 +1,36 @@
+Arguments: 
+  D:\node\nodejs\node.exe D:\yarn\yarn\bin\yarn.js init
+
+PATH: 
+  D:\cmder\vendor\git-for-windows\mingw64\bin;D:\cmder\vendor\git-for-windows\usr\bin;C:\Users\HP\bin;C:\ProgramData\Oracle\Java\javapath;C:\;F:\Java\jdk-9.0.1\bin;F:\Java\jdk-9.0.1\jre\bin;F:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\IntelSGXPSW\bin\x64\Release;C:\Program Files\Intel\IntelSGXPSW\bin\win32\Release;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\WINDOWS\System32\OpenSSH;C:\TDM-GCC-64\bin;E:\mysql\bin;D:\python;D:\python\Scripts;D:\phantomjs\phantomjs-2.1.1-windows\bin;C:\Program Files\Git\cmd;D:\OCR\Tesseract-OCR;D:\redis;D:\Program Files\proe5.0\Creo Elements\Pro5.0\bin;D:\Program Files\proe5.0\Creo Elements\Pro5.0\mech\bin;D:\node\nodejs;D:\yarn\yarn\bin;D:\python\Scripts;D:\python;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;D:\mysql\mysql-5.6.45-winx64\bin;E:\Bandizip;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HP\AppData\Roaming\npm;C:\Users\HP\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  8.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (D:\yarn\yarn\lib\cli.js:137009:13)
+      at emitNone (events.js:106:13)
+      at Interface.emit (events.js:208:7)
+      at Interface._ttyWrite (readline.js:774:16)
+      at ReadStream.onkeypress (readline.js:158:10)
+      at emitTwo (events.js:126:13)
+      at ReadStream.emit (events.js:214:7)
+      at emitKeys (internal/readline.js:420:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1010:36)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
